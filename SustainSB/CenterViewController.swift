@@ -9,14 +9,13 @@
 import UIKit
 
 class CenterViewController: UIViewController {
-  @IBOutlet weak var imageView: UIImageView!
+@IBOutlet weak var imageView: UIImageView!
   @IBOutlet weak var titleLabel: UILabel!
   
   var delegate: CenterViewControllerDelegate?
   
   // MARK: Button actions
   @IBAction func iconsTapped(_ sender: Any) {
-    print("iconsTapped() called")
     delegate?.toggleLeftPanel()
   }
 }

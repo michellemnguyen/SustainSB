@@ -73,6 +73,7 @@ extension ContainerViewController: CenterViewControllerDelegate {
   }
   
   func addLeftPanelViewController() {
+    print("addLeftPanelViewController() called")
     guard leftViewController == nil else { return }
 
     if let vc = UIStoryboard.leftViewController() {
@@ -83,6 +84,7 @@ extension ContainerViewController: CenterViewControllerDelegate {
   }
   
   func animateLeftPanel(shouldExpand: Bool) {
+    print("animateLeftPanel() called")
     if shouldExpand {
       currentState = .leftPanelExpanded
       animateCenterPanelXPosition(

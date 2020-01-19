@@ -20,5 +20,193 @@
             landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4809C5E4-1B46-4F29-BFB2-04A656A88921"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SustainSB/ContainerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C924620F-529A-46DB-938F-BA7E1B6C2DCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SustainSB/CenterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CenterViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C924620F-529A-46DB-938F-BA7E1B6C2DCD - 7f30c3df4e031b44"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SustainSB.CenterViewController.delegate.getter : Swift.Optional&lt;SustainSB.CenterViewControllerDelegate&gt;"
+                  moduleName = "SustainSB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/XCodeProjects/SustainSB/SustainSB/CenterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "C924620F-529A-46DB-938F-BA7E1B6C2DCD - c2398bd9d9fdd958"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SustainSB.CenterViewController.delegate.setter : Swift.Optional&lt;SustainSB.CenterViewControllerDelegate&gt;"
+                  moduleName = "SustainSB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/XCodeProjects/SustainSB/SustainSB/CenterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  uuid = "C924620F-529A-46DB-938F-BA7E1B6C2DCD - 7c628cc0d71f7bc7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SustainSB.CenterViewController.delegate.modify : Swift.Optional&lt;SustainSB.CenterViewControllerDelegate&gt;"
+                  moduleName = "SustainSB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/XCodeProjects/SustainSB/SustainSB/CenterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "C924620F-529A-46DB-938F-BA7E1B6C2DCD - 65c655557168e064"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SustainSB.CenterViewController.delegate.modify : Swift.Optional&lt;SustainSB.CenterViewControllerDelegate&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SustainSB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/XCodeProjects/SustainSB/SustainSB/CenterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "C924620F-529A-46DB-938F-BA7E1B6C2DCD - 49dfd299cd46bf60"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SustainSB.CenterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SustainSB.CenterViewController"
+                  moduleName = "SustainSB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/XCodeProjects/SustainSB/SustainSB/CenterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "415">
+               </Location>
+               <Location
+                  uuid = "C924620F-529A-46DB-938F-BA7E1B6C2DCD - 83b6b05113fd367b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SustainSB.CenterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SustainSB.CenterViewController&gt;"
+                  moduleName = "SustainSB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michelle/XCodeProjects/SustainSB/SustainSB/CenterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "353">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4FCEB7F-538E-4ADD-914D-9A780F665A64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SustainSB/CenterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CenterViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7DCC179-C2AF-4F24-B966-AFE910AC066C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SustainSB/CenterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CenterViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "489A6093-2B96-4B98-A7A4-D738D8E445E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SustainSB/CenterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "iconsTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14C19462-7B87-4632-8AB8-98044A808D8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SustainSB/CenterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "iconsTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
