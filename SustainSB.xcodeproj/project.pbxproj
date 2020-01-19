@@ -13,6 +13,11 @@
 		F9CBD2A023D3D9C5003DF63B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9CBD29E23D3D9C5003DF63B /* Main.storyboard */; };
 		F9CBD2A223D3D9C8003DF63B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9CBD2A123D3D9C8003DF63B /* Assets.xcassets */; };
 		F9CBD2A523D3D9C8003DF63B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9CBD2A323D3D9C8003DF63B /* LaunchScreen.storyboard */; };
+		F9CBD2AF23D3DE66003DF63B /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CBD2AE23D3DE66003DF63B /* ContainerViewController.swift */; };
+		F9CBD2B123D3DE83003DF63B /* CenterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CBD2B023D3DE83003DF63B /* CenterViewController.swift */; };
+		F9CBD2B323D3DE95003DF63B /* NavBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CBD2B223D3DE95003DF63B /* NavBarViewController.swift */; };
+		F9CBD2B523D3E727003DF63B /* NavIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CBD2B423D3E727003DF63B /* NavIcon.swift */; };
+		F9CBD2B723D3EA6B003DF63B /* IconCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CBD2B623D3EA6B003DF63B /* IconCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		F9CBD2A123D3D9C8003DF63B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9CBD2A423D3D9C8003DF63B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9CBD2A623D3D9C8003DF63B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9CBD2AE23D3DE66003DF63B /* ContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerViewController.swift; sourceTree = "<group>"; };
+		F9CBD2B023D3DE83003DF63B /* CenterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterViewController.swift; sourceTree = "<group>"; };
+		F9CBD2B223D3DE95003DF63B /* NavBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBarViewController.swift; sourceTree = "<group>"; };
+		F9CBD2B423D3E727003DF63B /* NavIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavIcon.swift; sourceTree = "<group>"; };
+		F9CBD2B623D3EA6B003DF63B /* IconCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +70,14 @@
 				F9CBD29A23D3D9C5003DF63B /* SceneDelegate.swift */,
 				F9CBD29C23D3D9C5003DF63B /* ViewController.swift */,
 				F9CBD29E23D3D9C5003DF63B /* Main.storyboard */,
+				F9CBD2AE23D3DE66003DF63B /* ContainerViewController.swift */,
+				F9CBD2B023D3DE83003DF63B /* CenterViewController.swift */,
+				F9CBD2B223D3DE95003DF63B /* NavBarViewController.swift */,
+				F9CBD2B623D3EA6B003DF63B /* IconCell.swift */,
 				F9CBD2A123D3D9C8003DF63B /* Assets.xcassets */,
 				F9CBD2A323D3D9C8003DF63B /* LaunchScreen.storyboard */,
 				F9CBD2A623D3D9C8003DF63B /* Info.plist */,
+				F9CBD2B423D3E727003DF63B /* NavIcon.swift */,
 			);
 			path = SustainSB;
 			sourceTree = "<group>";
@@ -140,7 +155,12 @@
 			files = (
 				F9CBD29D23D3D9C5003DF63B /* ViewController.swift in Sources */,
 				F9CBD29923D3D9C5003DF63B /* AppDelegate.swift in Sources */,
+				F9CBD2B723D3EA6B003DF63B /* IconCell.swift in Sources */,
+				F9CBD2B323D3DE95003DF63B /* NavBarViewController.swift in Sources */,
+				F9CBD2AF23D3DE66003DF63B /* ContainerViewController.swift in Sources */,
 				F9CBD29B23D3D9C5003DF63B /* SceneDelegate.swift in Sources */,
+				F9CBD2B523D3E727003DF63B /* NavIcon.swift in Sources */,
+				F9CBD2B123D3DE83003DF63B /* CenterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
